@@ -1,11 +1,11 @@
-# 🐍 Snake Game \[BETA]
+# Snake Game \[BETA]
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 \[![Status](https://img.shields.io/badge/status-Beta-yellow)]
 
 **Snake Game** is a classic game written in **x86 Assembly**, currently in **beta**, developed for learning, fun, and practicing low-level programming skills.
 
-> ⚠️ **Warning:** This is a test version. Features may change in the final release.
+> **Warning:** This is a test version. Features may change in the final release.
 
 ---
 
