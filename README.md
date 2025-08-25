@@ -54,8 +54,6 @@ c:
 snake.com
 ```
 
-4. Enjoy! 🐍
-
 ---
 
 ## About the Project
